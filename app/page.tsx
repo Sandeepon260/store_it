@@ -1,9 +1,11 @@
-import Image from "next/image";
+
 
 export default function Home() {
   return (
-    <div className="text-3xl">
-      StoreIt - The only storage system you need
+    <div className="felx-center h-screen">
+      <h1 className="h1">
+        StoreIt - The only  storage solution you need.
+      </h1>
     </div>
   );
 }
